@@ -1,4 +1,4 @@
-## MIND Skill assessments - Answers
+## M.I.N.D Skill assessments - Answers
 
 <a id="top-page"></a>
 [![Owner](https://img.shields.io/badge/owner-iamsooboo-blue)](https://github.com/iamsooboo)
