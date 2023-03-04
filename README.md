@@ -20,7 +20,7 @@ have a great understanding about.
 
 ## Need help?
 
-[![Telegram](https://badgen.net/badge/icon/Linkedln?icon=Linkedln&label)](https://www.linkedin.com/in/iamsooboo/)
+[![Linkedln](https://badgen.net/badge/icon/linkedln?icon=Linkedln&label)](https://www.linkedin.com/in/iamsooboo/)
 
 - [Open new issue](https://github.com/iamsooboo/mind-quiz/issues/new)
 
